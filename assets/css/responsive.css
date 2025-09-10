@@ -34,6 +34,10 @@
     display: none;
 }
 
+.service-style-one-item {
+    text-align: center;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -49,6 +53,14 @@
 
 .attr-nav {
     display: none;
+}
+
+.service-style-one-item {
+    text-align: center;
+}
+
+.service-one-heading h3 {
+    font-size: 31px;
 }
 
 }
