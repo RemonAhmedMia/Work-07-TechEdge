@@ -38,6 +38,10 @@
     text-align: center;
 }
 
+.about-heading h3 {
+    font-size: 37px;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -61,6 +65,10 @@
 
 .service-one-heading h3 {
     font-size: 31px;
+}
+
+.about-heading h3 {
+    font-size: 32px;
 }
 
 }
