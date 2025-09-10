@@ -30,6 +30,10 @@
     padding-right: 0;
 }
 
+.attr-nav {
+    display: none;
+}
+
 }
 
 /* MObile Layout: 576px.*/
@@ -41,6 +45,10 @@
 
 .banner-style-one-item p {
     padding-right: 0;
+}
+
+.attr-nav {
+    display: none;
 }
 
 }
